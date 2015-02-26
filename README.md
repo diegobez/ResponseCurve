@@ -2,7 +2,7 @@
 This Unity3d component implements a response curve easily configurable at the unity inspector. 
 
 ResponseCurve.cs     -> the Unity3D component.
-ResponseCurveEditor  -> inspector adon to visualize the response curve as a 2 axis graphic.
+ResponseCurveEditor  -> optional inspector extension to visualize the response curve as a 2 axis graphic.
 ResponseCurveTest.cs -> Response Curve test ( Unity Test Tools ) .
 
 -------
